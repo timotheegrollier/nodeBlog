@@ -1,0 +1,17 @@
+#home{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    height: 100vh;
+    #homeContent{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-direction: column;
+        height: 80%;
+        #homeAlien{
+            margin-top: 100px !important;
+            height: 50%;
+        }
+    }
+}

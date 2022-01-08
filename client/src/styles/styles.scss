@@ -1,0 +1,13 @@
+$my-white : rgba(245, 245, 245, 0.932);
+$titleColor:#0860b8;
+
+
+@import "~bootstrap/scss/bootstrap";
+
+@import 'nav';
+@import 'settings';
+@import 'home';
+@import 'login';
+@import 'messages';
+@import 'footer';
+

@@ -1,0 +1,14 @@
+#footer {
+    position: absolute;
+    bottom: 0;
+    background: $gray-600;
+    color: $my-white;
+    width: 100vw;
+    height: 4%;
+    #footerContent {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100%;
+    }
+}
